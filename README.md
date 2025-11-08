@@ -4,6 +4,7 @@ Curated list of everything [Grokipedia](https://grokipedia.com/) related
 ## Unofficial Grokipedia API
 
 - https://github.com/dbccccccc/Grokipedia-api
+- https://grokipedia-api.com/
 
 ## Why Grokipedia?
 
